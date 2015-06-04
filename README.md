@@ -1,6 +1,6 @@
 # 微信公共帐号机器人(Weixin Robot)
 
-[![Build Status](https://api.travis-ci.org/node-webot/weixin-robot.png?branch=master)](https://travis-ci.org/node-webot/weixin-robot) [![repo dependency](https://david-dm.org/node-webot/weixin-robot.png)](https://david-dm.org/node-webot/weixin-robot)
+[![Build Status](https://api.travis-ci.org/henrysher/weixin-robot.png?branch=master)](https://travis-ci.org/henrysher/weixin-robot) [![repo dependency](https://david-dm.org/henrysher/weixin-robot.png)](https://david-dm.org/henrysher/weixin-robot)
 
 A node.js robot for wechat.
 
